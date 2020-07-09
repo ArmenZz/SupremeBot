@@ -1,0 +1,6 @@
+- ADD PRODUCT URL, COLOR, SIZE AND CHECKOUT INFO IN CONFIG.PY
+- RUN SCRIPT: python supreme.py
+
+(auto captcha solver feature is work in progress)
+
+****YOU NEED chromedriver.exe TO BE ABLE TO RUN ISOLATED INSTANCES OF CHROME 
